@@ -1,0 +1,8 @@
+C:\Users\me\source\repos\TheXims\bin\Debug\TheXims.exe.config
+C:\Users\me\source\repos\TheXims\bin\Debug\TheXims.exe
+C:\Users\me\source\repos\TheXims\bin\Debug\TheXims.pdb
+C:\Users\me\source\repos\TheXims\obj\Debug\TheXims.csprojAssemblyReference.cache
+C:\Users\me\source\repos\TheXims\obj\Debug\TheXims.Properties.Resources.resources
+C:\Users\me\source\repos\TheXims\obj\Debug\TheXims.csproj.GenerateResource.cache
+C:\Users\me\source\repos\TheXims\obj\Debug\TheXims.exe
+C:\Users\me\source\repos\TheXims\obj\Debug\TheXims.pdb
